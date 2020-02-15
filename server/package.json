@@ -17,7 +17,7 @@
     "async": "~0.9.0",
     "atob": "^2.0.0",
     "aws-sdk": "^2.2.23",
-    "axios": "^0.15.3",
+    "axios": "^0.19.2",
     "bitcoin": "^2.2.0",
     "bitcore": "^0.13.5",
     "bitcore-explorers": "^1.0.0",
